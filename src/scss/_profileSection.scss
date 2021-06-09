@@ -8,14 +8,17 @@
     justify-content:center;
     #profilePicture{
         border-style:solid;
+        color:red;
         border-radius:100%;
-        width:5em;
-        height:5em;
+        width:8em;
+        height:8em;
+        margin-right:2%;
     }
     #profileInfo{
-        
+        width:50%;
         header{
             display:flex;
+            flex-wrap:wrap;
             align-items:center;
             border-style:dotted;
             border-color:deepskyblue;
@@ -34,18 +37,31 @@
             }
             #blueSelect{
                 background-color:#0095F6;
+                
             }
             #dotSelect{
-                border-style:none;
+               
+                margin-left:1%;
+                border-style:solid;
+                
             }
         }
         #statistics{
             border-style:dotted;
             border-color:deeppink;
             display:flex;
+            div{
+               width:25%; 
+               font-size:0.7em;
+               display:flex;
+          
+   
+            }
         }
         #personalUserText{
-
+            border-style:dotted;
+            border-color:grey;
+            height:auto;
         }
     }
 }

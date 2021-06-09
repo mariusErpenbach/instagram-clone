@@ -9,8 +9,8 @@ const ProfileSection = () => {
                     <div id="followButton"> Follow </div>
                     <select id="blueSelect">
                     </select>
-                    <select id="dotSelect">
-                    </select>
+                    <div id="dotSelect"> 
+                    </div>
                 </header>
                 <div id="statistics">
                     <div id="posts">5.531 posts</div>
