@@ -13,9 +13,9 @@ const ProfileSection = () => {
                     </select>
                 </header>
                 <div id="statistics">
-                    <div id="posts"></div>
-                    <div id="followers"></div>
-                    <div id="following"></div>
+                    <div id="posts">5.531 posts</div>
+                    <div id="followers"> 225m followers</div>
+                    <div id="following"> 150 following</div>
                 </div>
                 <div id="personalUserText">
                 <p>Kim Kardashian West</p>

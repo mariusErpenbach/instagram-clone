@@ -1,6 +1,6 @@
 const PictureSection = () => {
     return (
-        <div></div>
+        <div id="pictureSection"></div>
     )
 };
 export default PictureSection;
