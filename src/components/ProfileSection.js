@@ -20,7 +20,7 @@ const ProfileSection = () => {
                 <div id="personalUserText">
                 <p>Kim Kardashian West</p>
                 <p>Shop @SKIMS Neon Fits Everybody now!</p>
-                <p>skims.com</p>
+                <a href="">skims.com</a>
                 </div>
                  </div>
         </div>
