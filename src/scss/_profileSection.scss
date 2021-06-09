@@ -1,0 +1,19 @@
+#profileSection{
+    border-style:dotted;
+    border-color:peru;
+    display:flex;
+    #profilePicture{
+        border-style:solid;
+        border-radius:100%;
+        width:7em;
+        height:7em;
+    }
+    #profileInfo{
+        
+        header{
+            display:flex;
+            align-items:center;
+
+        }
+    }
+}

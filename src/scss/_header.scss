@@ -2,5 +2,25 @@
     border-style:dotted;
     border-color:peru;
     display:flex;
+    align-items:center;
+    #logo{
+    margin-left:10%;
+    }  
+    input{
+     margin-left:25%;
+     display:flex;
     
+    }
+    ::placeholder{
+        position:relative;
+        left:30%
+    }
+    #navBar{
+      display:flex;
+        border-style:dotted;
+        margin-left:30%;
+        div{
+        width:2em;
+        }
+    }
 }

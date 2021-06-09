@@ -1,7 +1,7 @@
 const Header = () =>{
     return (
         <div id="header">
-            <div> Instagram </div>
+            <div id="logo"> Instagram </div>
             <input type="text" placeholder="Search"></input>
             <div id="navBar">
                 <div>1</div>
